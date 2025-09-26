@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Hyrax </title>
+<title> My Little Pony  </title>
 </head>
 <body>
 <h1> ...... </h1>
