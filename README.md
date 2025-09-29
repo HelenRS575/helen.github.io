@@ -1,9 +1,8 @@
-# helen.github.io
+# My Little Pony
 <!DOCTYPE html>
 <html>
-<head text-align:center;> My Little Pony </head>
 <body>
-<h1 style="background-color:darkred;"> Introduction </h1>
+<h2> Introduction </h2>
 <p> .......... </p>
 <h2> What is it? </h2>
 <p> .......... </p>
@@ -14,5 +13,7 @@
 <h2> Where to watch it </h2>
 <p> ................... </p>
 <h2> Quiz time!!! </h2>
+<p> Time to find out which My Little Pony character you are! <br/>
+  (https://www.proprofs.com/quiz-school/story.php?title=which-mlpfim-background-pony-are-you) </p>
 </body>
 </html>
