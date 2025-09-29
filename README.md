@@ -1,7 +1,7 @@
 # My Little Pony
-<html>
+<html style="background-color:C3EEFA;">
 <body>
-<h2 style="background-color:skyblue;"> Introduction </h2>
+<h2 > Introduction </h2>
 <p> .......... </p>
 <h2> What is it? </h2>
 <p> .......... </p>
