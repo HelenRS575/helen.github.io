@@ -13,6 +13,6 @@
  <img src="image-from-rawpixel-id-6286317-jpeg.jpg" alt="people holding hands around earth" width="300">  
  <img src="World-Peace.svg" alt="two earth hands shaking in shape of heart" width="300"
 <h2> Quiz time!!! </h2>
-<p> [Which My Little Pony Character am I!](https://www.proprofs.com/quiz-school/story.php?title=which-mlpfim-background-pony-are-you) </p>
+<a href="https://www.proprofs.com/quiz-school/story.php?title=which-mlpfim-background-pony-are-you"> </a>
 </body>
 </html>
