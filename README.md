@@ -13,7 +13,4 @@
  <img src="image-from-rawpixel-id-6286317-jpeg.jpg" alt="people holding hands around earth" width="300" height="200">  
  <img src="900639d668411b027.88586866.jpg" alt="eleven people holding hands and raising them at the beach in front of the sunset" width="300" height="200">
 <h2> Quiz time!!! </h2>
-
  <a href="https://www.proprofs.com/quiz-school/story.php?title=which-mlpfim-background-pony-are-you" target="_blank"> Which My Little Pony Character am I?
-</body>
-</html>
