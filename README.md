@@ -1,5 +1,4 @@
 # My Little Pony
-<!DOCTYPE html>
 <html>
 <body>
 <h2 style="background-color:skyblue;"> Introduction </h2>
