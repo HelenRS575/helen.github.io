@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h2 style="background-color:C3EEFA;"> Introduction </h2>
+<h2 style="background-color:skyblue;"> Introduction </h2>
 <p> .......... </p>
 <h2> What is it? </h2>
 <p> .......... </p>
